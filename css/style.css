@@ -8234,14 +8234,14 @@ h1, h2, h3, h4, h5,
   position: relative; }
 
 .slider-text h1 {
-  font-size: 10vw;
+  font-size: 8vw;
   color: #fff;
   line-height: 1.2;
   font-weight: 700;
   font-family: "Poppins", Arial, sans-serif; }
   @media (max-width: 1199.98px) {
     .slider-text h1 {
-      font-size: 10vw; } }
+      font-size: 14vw; } }
   .slider-text h1 span {
     color: #ffd369; }
 
