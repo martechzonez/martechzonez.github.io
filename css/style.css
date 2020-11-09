@@ -8236,8 +8236,8 @@ h1, h2, h3, h4, h5,
 .slider-text h1 {
   font-size: 10vw;
   color: #fff;
-  line-height: 1.0;
-  font-weight: 500;
+  line-height: 1.2;
+  font-weight: 700;
   font-family: "Poppins", Arial, sans-serif; }
   @media (max-width: 1199.98px) {
     .slider-text h1 {
