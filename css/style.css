@@ -8283,7 +8283,9 @@ h1, h2, h3, h4, h5,
           color: #ffd369; }
 
 .slider-text .bread {
-  font-weight: 700 !important; }
+  font-weight: 700 !important; 
+  font-size: 100px
+  font-family: sans-serif;}
 
 .mouse {
   position: absolute;
